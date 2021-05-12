@@ -33,16 +33,16 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1100231654"
+         "value": "1351009959"
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "LEGENDX22"
+         "value": "VEN0M_xD"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1100231654"
+         "value": "1351009959"
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
@@ -50,19 +50,15 @@
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": "-1001495908260"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
-         "value": "-xyz"
+         "value": "XYR6GKUTMBTCKAFM"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information",
-         "value": "HW6LQCYX43HS"
-      },
-      "AI_API_KEY": {
-         "description": "for activate chatbot",
-         "value": "x_y_z"
+         "value": "3CRTDEAMM15M"
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -80,17 +76,17 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1100231654"
+         "value": ""
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1100231654"
+         "value": ""
       },
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": ""
+         "value": "1827404174:AAGRmcHfT530B0GrgIOhFZF3-xFscAVi66s"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
@@ -105,7 +101,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1100231654"
+         "value": ""
       }
    },
    "keywords": [
@@ -116,5 +112,5 @@
    ],
    "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
    "name": "GRAND OFFICIAL",
-   "repository": "https://github.com/legendx22/GRANDROBOT"
+   "repository": "https://github.com/DeepakSingh07/test"
 }
